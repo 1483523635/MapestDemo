@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lqqu/learning/dotnet/MappingTest/MappingTest.csproj": {}
+  },
+  "projects": {
+    "/Users/lqqu/learning/dotnet/MappingTest/MappingTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lqqu/learning/dotnet/MappingTest/MappingTest.csproj",
+        "projectName": "MappingTest",
+        "projectPath": "/Users/lqqu/learning/dotnet/MappingTest/MappingTest.csproj",
+        "packagesPath": "/Users/lqqu/.nuget/packages/",
+        "outputPath": "/Users/lqqu/learning/dotnet/MappingTest/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/Users/lqqu/.dvm/sdks/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lqqu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "ExpressionDebugger": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "shouldly": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

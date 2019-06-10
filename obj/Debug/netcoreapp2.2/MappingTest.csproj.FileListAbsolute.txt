@@ -1,0 +1,14 @@
+/Users/lqqu/learning/dotnet/MappingTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/lqqu/learning/dotnet/MappingTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/lqqu/learning/dotnet/MappingTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/lqqu/learning/dotnet/MappingTest/bin/Debug/netcoreapp2.2/MappingTest.deps.json
+/Users/lqqu/learning/dotnet/MappingTest/bin/Debug/netcoreapp2.2/MappingTest.runtimeconfig.json
+/Users/lqqu/learning/dotnet/MappingTest/bin/Debug/netcoreapp2.2/MappingTest.runtimeconfig.dev.json
+/Users/lqqu/learning/dotnet/MappingTest/bin/Debug/netcoreapp2.2/MappingTest.dll
+/Users/lqqu/learning/dotnet/MappingTest/bin/Debug/netcoreapp2.2/MappingTest.pdb
+/Users/lqqu/learning/dotnet/MappingTest/obj/Debug/netcoreapp2.2/MappingTest.csprojAssemblyReference.cache
+/Users/lqqu/learning/dotnet/MappingTest/obj/Debug/netcoreapp2.2/MappingTest.csproj.CoreCompileInputs.cache
+/Users/lqqu/learning/dotnet/MappingTest/obj/Debug/netcoreapp2.2/MappingTest.AssemblyInfoInputs.cache
+/Users/lqqu/learning/dotnet/MappingTest/obj/Debug/netcoreapp2.2/MappingTest.AssemblyInfo.cs
+/Users/lqqu/learning/dotnet/MappingTest/obj/Debug/netcoreapp2.2/MappingTest.dll
+/Users/lqqu/learning/dotnet/MappingTest/obj/Debug/netcoreapp2.2/MappingTest.pdb
